@@ -2,3 +2,4 @@
 
 ## Para utilizá-lo, basta usar uma IDE como o VS CODE
 
+## Extensões utilizadas, HTML e CSS
